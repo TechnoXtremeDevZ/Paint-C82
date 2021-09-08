@@ -1,0 +1,25 @@
+﻿body {
+    cursor: pointer;
+    background-image: url("https://i.postimg.cc/63cjmfvH/bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#paint_title {
+    color: red;
+}
+
+#pc_canvas {
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+
+#cleararea_ {
+    background-color: lightgreen;
+    color:white;
+}
+
+input {
+    margin-right: 20px;
+}
